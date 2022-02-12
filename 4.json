@@ -3,7 +3,7 @@
   "symbol": "B",
   "description": "We are 50 balls",
   "seller_fee_basis_points": 750,
-  "image": "4.png",
+  "image": "https://raw.githubusercontent.com/AlexnaderPuchkov/assetsballs/main/4.png",
   "edition": 4,
   "attributes": [
     {
