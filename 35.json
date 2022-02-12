@@ -1,0 +1,49 @@
+{
+  "name": "BALLS #35",
+  "symbol": "B",
+  "description": "We are 50 balls",
+  "seller_fee_basis_points": 750,
+  "image": "35.png",
+  "edition": 35,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "happy"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "35.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "66CAZN2Ukt1gSP4YmcNkcVZaUb4URR5diof3Y3juZBwR",
+        "share": 50
+      },
+      {
+        "address": "F8w4SHpKo2rsWLe3xPwVssPz5P2uTRpJTt2cNmMbe2d5",
+        "share": 50
+      }
+    ]
+  },
+  "collection": {
+    "name": "balls",
+    "family": "balls"
+  }
+}
